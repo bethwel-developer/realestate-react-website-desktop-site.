@@ -3,6 +3,7 @@ import Heading from "../../common/Heading"
 import "./price.css"
 import PriceCard from "./PriceCard"
 
+
 const Price = () => {
   return (
     <>

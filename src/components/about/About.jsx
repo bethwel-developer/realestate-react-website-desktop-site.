@@ -5,6 +5,7 @@ import img from "../images/about.jpg"
 import "./about.css"
 
 
+
 const About = () => {
   return (
     <>
